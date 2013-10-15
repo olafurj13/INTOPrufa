@@ -35,6 +35,7 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
+	cout << " Adur en vid byrjum ta var olafurj13 her." <<endl <<endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
