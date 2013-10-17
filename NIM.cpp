@@ -37,7 +37,8 @@ int main( )
 		cout << endl << endl << endl;
 	cout << " Adur en vid byrjum ta var olafurj13 her." <<endl <<endl;
 	cout << " Sidan kom Andrif13 og slatradi honum svo olafur datt bara ut" << endl; 
-		cout << "                ADALVALMYND " << endl << endl;
+	cout << " Svenni kom sidan og slatradi şessu " << endl << endl;	
+	cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
